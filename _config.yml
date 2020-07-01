@@ -8,12 +8,12 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "My Personal Blog"
-title_separator          : "_"
-name                     : ""
+title_separator          : "|"
+name                     : "Srilalitha's Blog"
 description              : "I am a Upcoming Deep Learning Graduate student from San Jose State University who is intrested in developing data driven models"
 url                      : https://srilalithaveerubhotla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "srilalithaveerubhotla/srilalithaveerubhotla.github.io.github.io"
+repository               : "username/repo-name"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,6 +55,7 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+head_scripts: https://code.jquery.com/jquery-3.3.1.min.js
 
 # Social Sharing
 twitter:
