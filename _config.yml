@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "My Personal Blog"
-title_separator          : "-"
+title_separator          : " Srilalitha Veerubhotla"
 name                     : Srilalitha Veerubhotla
 description              : "I am a Upcoming Deep Learning Graduate student from San Jose State University who is intrested in developing data driven models"
 url                      : https://srilalithaveerubhotla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
