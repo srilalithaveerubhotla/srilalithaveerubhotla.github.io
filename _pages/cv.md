@@ -2,10 +2,8 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-excerpt: "<br><embed src="https://srilalithaveerubhotla.github.io/Resume.pdf" type="files/Resume.pdf"></br>"
 author_profile: true
 redirect_from: - /resume
-collection: portfolio
 ---
 
 
