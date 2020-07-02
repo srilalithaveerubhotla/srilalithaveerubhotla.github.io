@@ -55,6 +55,6 @@ Operating Systems
 
 RESUME
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.resume %}
     {% include resume.html %}
   {% endfor %}</ul>
