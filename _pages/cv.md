@@ -24,7 +24,7 @@ Work experience
   * Qolsys.INC
   * Duties included: Understanding IoT-Based data,Developing & Deploying Machine learning models in large-scale
 
-  
+
 Programming Languages
 ======
 * Python
@@ -50,8 +50,3 @@ Operating Systems
 * Linux/Ubuntu
 * Windows
 * Mac
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 
