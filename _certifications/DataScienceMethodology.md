@@ -2,7 +2,6 @@
 title: "Data Science Methodology"
 collection: certifications
 permalink: /certification/DataScienceMethodology
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 paperurl: 'https://courses.cognitiveclass.ai/certificates/613a4bf9196d4827a1eb142c88e2b3d5'
 
