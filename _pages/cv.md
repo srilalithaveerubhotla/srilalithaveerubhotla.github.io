@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+paperurl: 'https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf'
 author_profile: true
 redirect_from: 
 - /resume
