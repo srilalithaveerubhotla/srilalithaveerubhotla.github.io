@@ -193,10 +193,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _certifications
   - scope:
       path: ""
-      type: publications
+      type: certifications
     values:
       layout: single
       author_profile: true
