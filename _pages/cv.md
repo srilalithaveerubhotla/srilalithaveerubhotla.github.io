@@ -55,6 +55,4 @@ Operating Systems
 
 RESUME
 ======
-  <ul>{% for post in site.resume %}
-    {% include resume.html %}
-  {% endfor %}</ul>
+[RESUME][https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf]
