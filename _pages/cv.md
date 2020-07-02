@@ -3,12 +3,11 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+<iframe src="https://docs.google.com/gview?url= https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+
 redirect_from: 
 - /resume
 ---
-
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 
 {% include base_path %}
