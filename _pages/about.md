@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-(https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
@@ -18,13 +17,10 @@ Welcome to my page...
 
 You can call me Sri..
 
-This website you my find my portfolio and all my intresting works in the field of Deep Leaning.
+This website you my find my portfolio and all my interesting works in the field of Deep Leaning.
 
 I am very happy to hear back questions , doubts and new thoughts about any related stuff from this web site.
 
 Wish you a Good Day!.
 
 Thanks for visiting my web page!
-
-
-
