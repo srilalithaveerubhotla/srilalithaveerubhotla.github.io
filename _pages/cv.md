@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/Resume.pdf'>"
+excerpt: "resume link<br/><img src='/files/Resume.pdf'>"
 author_profile: true
 redirect_from:
   - /resume
