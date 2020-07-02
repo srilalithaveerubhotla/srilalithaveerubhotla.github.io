@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-<iframe src="https://docs.google.com/gview?url= https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-
 redirect_from: 
 - /resume
 ---
