@@ -55,4 +55,4 @@ Operating Systems
 
 RESUME
 ======
-[RESUME] [https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf]
+[RESUME](https://github.com/srilalithaveerubhotla/srilalithaveerubhotla.github.io/blob/master/files/Resume.pdf)
